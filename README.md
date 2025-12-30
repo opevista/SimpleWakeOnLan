@@ -104,7 +104,7 @@ Xcode で実行対象を macOS に設定し、ビルド・実行してくださ�
 
 - iCloud 同期対応  
 - Wake 実行履歴の可視化  
-- iOS / iPadOS 対応  
+- ~~iOS / iPadOS 対応~~ 完了! 
 - メニューバーアプリ化
 
 ---
