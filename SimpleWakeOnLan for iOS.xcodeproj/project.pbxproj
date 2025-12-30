@@ -7,45 +7,45 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4FD4C02A2EFE4ECE0043DC55 /* SwiftyPing in Frameworks */ = {isa = PBXBuildFile; productRef = 4FD4C0292EFE4ECE0043DC55 /* SwiftyPing */; };
+		4F69CC812F035582009BD395 /* SwiftyPing in Frameworks */ = {isa = PBXBuildFile; productRef = 4F69CC802F035582009BD395 /* SwiftyPing */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4FD4C01A2EFE43330043DC55 /* SimpleWakeOnLan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleWakeOnLan.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4F69CC712F0354D1009BD395 /* SimpleWakeOnLan for iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SimpleWakeOnLan for iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		4FD4C01C2EFE43330043DC55 /* SimpleWakeOnLan */ = {
+		4F69CC732F0354D1009BD395 /* SimpleWakeOnLan for iOS */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = SimpleWakeOnLan;
+			path = "SimpleWakeOnLan for iOS";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		4FD4C0172EFE43330043DC55 /* Frameworks */ = {
+		4F69CC6E2F0354D1009BD395 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4FD4C02A2EFE4ECE0043DC55 /* SwiftyPing in Frameworks */,
+				4F69CC812F035582009BD395 /* SwiftyPing in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4FD4C0112EFE43330043DC55 = {
+		4F69CC682F0354D1009BD395 = {
 			isa = PBXGroup;
 			children = (
-				4FD4C01C2EFE43330043DC55 /* SimpleWakeOnLan */,
-				4FD4C01B2EFE43330043DC55 /* Products */,
+				4F69CC732F0354D1009BD395 /* SimpleWakeOnLan for iOS */,
+				4F69CC722F0354D1009BD395 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		4FD4C01B2EFE43330043DC55 /* Products */ = {
+		4F69CC722F0354D1009BD395 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4FD4C01A2EFE43330043DC55 /* SimpleWakeOnLan.app */,
+				4F69CC712F0354D1009BD395 /* SimpleWakeOnLan for iOS.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -53,68 +53,68 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4FD4C0192EFE43330043DC55 /* SimpleWakeOnLan */ = {
+		4F69CC702F0354D1009BD395 /* SimpleWakeOnLan for iOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4FD4C0252EFE43360043DC55 /* Build configuration list for PBXNativeTarget "SimpleWakeOnLan" */;
+			buildConfigurationList = 4F69CC7C2F0354D4009BD395 /* Build configuration list for PBXNativeTarget "SimpleWakeOnLan for iOS" */;
 			buildPhases = (
-				4FD4C0162EFE43330043DC55 /* Sources */,
-				4FD4C0172EFE43330043DC55 /* Frameworks */,
-				4FD4C0182EFE43330043DC55 /* Resources */,
+				4F69CC6D2F0354D1009BD395 /* Sources */,
+				4F69CC6E2F0354D1009BD395 /* Frameworks */,
+				4F69CC6F2F0354D1009BD395 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				4FD4C01C2EFE43330043DC55 /* SimpleWakeOnLan */,
+				4F69CC732F0354D1009BD395 /* SimpleWakeOnLan for iOS */,
 			);
-			name = SimpleWakeOnLan;
+			name = "SimpleWakeOnLan for iOS";
 			packageProductDependencies = (
-				4FD4C0292EFE4ECE0043DC55 /* SwiftyPing */,
+				4F69CC802F035582009BD395 /* SwiftyPing */,
 			);
-			productName = SimpleWakeOnLan;
-			productReference = 4FD4C01A2EFE43330043DC55 /* SimpleWakeOnLan.app */;
+			productName = "SimpleWakeOnLan for iOS";
+			productReference = 4F69CC712F0354D1009BD395 /* SimpleWakeOnLan for iOS.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		4FD4C0122EFE43330043DC55 /* Project object */ = {
+		4F69CC692F0354D1009BD395 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2620;
 				LastUpgradeCheck = 2620;
 				TargetAttributes = {
-					4FD4C0192EFE43330043DC55 = {
+					4F69CC702F0354D1009BD395 = {
 						CreatedOnToolsVersion = 26.2;
 					};
 				};
 			};
-			buildConfigurationList = 4FD4C0152EFE43330043DC55 /* Build configuration list for PBXProject "SimpleWakeOnLan" */;
+			buildConfigurationList = 4F69CC6C2F0354D1009BD395 /* Build configuration list for PBXProject "SimpleWakeOnLan for iOS" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 4FD4C0112EFE43330043DC55;
+			mainGroup = 4F69CC682F0354D1009BD395;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
-				4FD4C0282EFE4ECE0043DC55 /* XCRemoteSwiftPackageReference "SwiftyPing" */,
+				4F69CC7F2F035582009BD395 /* XCRemoteSwiftPackageReference "SwiftyPing" */,
 			);
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 4FD4C01B2EFE43330043DC55 /* Products */;
+			productRefGroup = 4F69CC722F0354D1009BD395 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4FD4C0192EFE43330043DC55 /* SimpleWakeOnLan */,
+				4F69CC702F0354D1009BD395 /* SimpleWakeOnLan for iOS */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		4FD4C0182EFE43330043DC55 /* Resources */ = {
+		4F69CC6F2F0354D1009BD395 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -124,7 +124,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		4FD4C0162EFE43330043DC55 /* Sources */ = {
+		4F69CC6D2F0354D1009BD395 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -134,7 +134,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		4FD4C0232EFE43360043DC55 /* Debug */ = {
+		4F69CC7A2F0354D4009BD395 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -187,18 +187,18 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
-				MACOSX_DEPLOYMENT_TARGET = 26.2;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				SDKROOT = macosx;
+				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
-		4FD4C0242EFE43360043DC55 /* Release */ = {
+		4F69CC7B2F0354D4009BD395 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -245,122 +245,109 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
-				MACOSX_DEPLOYMENT_TARGET = 26.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
-				SDKROOT = macosx;
+				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		4FD4C0262EFE43360043DC55 /* Debug */ = {
+		4F69CC7D2F0354D4009BD395 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = KGJC56RFVX;
-				ENABLE_APP_SANDBOX = YES;
-				ENABLE_HARDENED_RUNTIME = YES;
-				ENABLE_INCOMING_NETWORK_CONNECTIONS = YES;
-				ENABLE_OUTGOING_NETWORK_CONNECTIONS = YES;
 				ENABLE_PREVIEWS = YES;
-				ENABLE_RESOURCE_ACCESS_AUDIO_INPUT = NO;
-				ENABLE_RESOURCE_ACCESS_BLUETOOTH = NO;
-				ENABLE_RESOURCE_ACCESS_CALENDARS = NO;
-				ENABLE_RESOURCE_ACCESS_CAMERA = NO;
-				ENABLE_RESOURCE_ACCESS_CONTACTS = NO;
-				ENABLE_RESOURCE_ACCESS_LOCATION = NO;
-				ENABLE_RESOURCE_ACCESS_PRINTING = NO;
-				ENABLE_RESOURCE_ACCESS_USB = NO;
-				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "Wake on LAN 機能のためにローカルネットワーク通信を使用します";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 18.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
-					"@executable_path/../Frameworks",
+					"@executable_path/Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 12.4;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = nisesimadao.SimpleWakeOnLan;
+				PRODUCT_BUNDLE_IDENTIFIER = "nisesimadao.SimpleWakeOnLan-for-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				REGISTER_APP_GROUPS = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		4FD4C0272EFE43360043DC55 /* Release */ = {
+		4F69CC7E2F0354D4009BD395 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = KGJC56RFVX;
-				ENABLE_APP_SANDBOX = YES;
-				ENABLE_HARDENED_RUNTIME = YES;
-				ENABLE_INCOMING_NETWORK_CONNECTIONS = YES;
-				ENABLE_OUTGOING_NETWORK_CONNECTIONS = YES;
 				ENABLE_PREVIEWS = YES;
-				ENABLE_RESOURCE_ACCESS_AUDIO_INPUT = NO;
-				ENABLE_RESOURCE_ACCESS_BLUETOOTH = NO;
-				ENABLE_RESOURCE_ACCESS_CALENDARS = NO;
-				ENABLE_RESOURCE_ACCESS_CAMERA = NO;
-				ENABLE_RESOURCE_ACCESS_CONTACTS = NO;
-				ENABLE_RESOURCE_ACCESS_LOCATION = NO;
-				ENABLE_RESOURCE_ACCESS_PRINTING = NO;
-				ENABLE_RESOURCE_ACCESS_USB = NO;
-				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "Wake on LAN 機能のためにローカルネットワーク通信を使用します";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 18.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
-					"@executable_path/../Frameworks",
+					"@executable_path/Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 12.4;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = nisesimadao.SimpleWakeOnLan;
+				PRODUCT_BUNDLE_IDENTIFIER = "nisesimadao.SimpleWakeOnLan-for-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				REGISTER_APP_GROUPS = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4FD4C0152EFE43330043DC55 /* Build configuration list for PBXProject "SimpleWakeOnLan" */ = {
+		4F69CC6C2F0354D1009BD395 /* Build configuration list for PBXProject "SimpleWakeOnLan for iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4FD4C0232EFE43360043DC55 /* Debug */,
-				4FD4C0242EFE43360043DC55 /* Release */,
+				4F69CC7A2F0354D4009BD395 /* Debug */,
+				4F69CC7B2F0354D4009BD395 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4FD4C0252EFE43360043DC55 /* Build configuration list for PBXNativeTarget "SimpleWakeOnLan" */ = {
+		4F69CC7C2F0354D4009BD395 /* Build configuration list for PBXNativeTarget "SimpleWakeOnLan for iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4FD4C0262EFE43360043DC55 /* Debug */,
-				4FD4C0272EFE43360043DC55 /* Release */,
+				4F69CC7D2F0354D4009BD395 /* Debug */,
+				4F69CC7E2F0354D4009BD395 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -368,7 +355,7 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		4FD4C0282EFE4ECE0043DC55 /* XCRemoteSwiftPackageReference "SwiftyPing" */ = {
+		4F69CC7F2F035582009BD395 /* XCRemoteSwiftPackageReference "SwiftyPing" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/samiyr/SwiftyPing.git";
 			requirement = {
@@ -379,12 +366,12 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		4FD4C0292EFE4ECE0043DC55 /* SwiftyPing */ = {
+		4F69CC802F035582009BD395 /* SwiftyPing */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 4FD4C0282EFE4ECE0043DC55 /* XCRemoteSwiftPackageReference "SwiftyPing" */;
+			package = 4F69CC7F2F035582009BD395 /* XCRemoteSwiftPackageReference "SwiftyPing" */;
 			productName = SwiftyPing;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};
-	rootObject = 4FD4C0122EFE43330043DC55 /* Project object */;
+	rootObject = 4F69CC692F0354D1009BD395 /* Project object */;
 }
