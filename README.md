@@ -1,9 +1,10 @@
 # SimpleWakeOnLan
 
-**SimpleWakeOnLan** は、SwiftUI で開発された macOS 向け (iOS版も公開されています) の Wake on LAN（WoL）ユーティリティです。  
+**SimpleWakeOnLan** は、SwiftUI で開発された macOS 向け (iOS版もあるよ)[^ios] の Wake on LAN（WoL）ユーティリティです。  
 複数のデバイスを登録・管理し、ワンクリックで起動信号を送信できます。  
 また、Ping によるオンライン状態の確認にも対応しています。
 <img width="1167" height="840" alt="SS" src="https://github.com/user-attachments/assets/e415263a-378b-453e-9c3a-c083796dd53f" />
+[^ios]:ちゃんとした管理がめんどくさいので別ブランチにおいたよー
 
 ---
 
